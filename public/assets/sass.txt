@@ -1,0 +1,8 @@
+sass --watch "C:\Users\Salim Rana\Dropbox\Tushar\Digitize\assets\scss\main.scss":"C:\Users\Salim Rana\Dropbox\Tushar\Digitize\assets\css\style.css"
+
+
+
+
+
+
+sass --watch "C:\Users\Tushar\Dropbox\Tushar\Digitize\assets\scss\main.scss":"C:\Users\Tushar\Dropbox\Tushar\Digitize\assets\css\style.css"
